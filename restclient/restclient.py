@@ -1,5 +1,6 @@
 import json
 
+import pytest
 import requests.exceptions
 from requests import session, Response
 import structlog
